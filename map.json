@@ -4,7 +4,7 @@
       "name": "UBQ/INK",
       "keywords": "ubq ubiq ink",
       "address": "0x1ea388d8dcf980a95967228b1dfcea1692dbe25d",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "GRANS/UBQ",

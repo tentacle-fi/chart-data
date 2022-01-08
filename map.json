@@ -4,13 +4,15 @@
       "name": "UBQ/INK",
       "keywords": "ubq ubiq ink",
       "address": "0x1ea388d8dcf980a95967228b1dfcea1692dbe25d",
-      "enabled": true
+      "enabled": true,
+      "uri": "ubq-ink"
     },
     {
       "name": "GRANS/UBQ",
       "keywords": "ubq ubiq 10grans",
       "address": "0x6321c294f34c2cdaf61012ac4f3588a527f4d990",
-      "enabled": true
+      "enabled": true,
+      "uri": "grans-ubq"
     }
   ]
 }

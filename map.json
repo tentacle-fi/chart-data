@@ -1,0 +1,52 @@
+{
+  "pairs": [
+    {
+      "name": "UBQ/INK",
+      "keywords": "ubq ubiq ink",
+      "address": "0x1ea388d8dcf980a95967228b1dfcea1692dbe25d",
+      "enabled": true,
+      "uri": "ubq-ink"
+    },
+    {
+      "name": "GRANS/UBQ",
+      "keywords": "ubq ubiq 10grans",
+      "address": "0x6321c294f34c2cdaf61012ac4f3588a527f4d990",
+      "enabled": true,
+      "uri": "grans-ubq"
+    },
+    {
+      "name": "INK/ESCH",
+      "keywords": "ink esch escher",
+      "address": "0x4030c26348628e1eeb11955c68e651c7027b04f9",
+      "enabled": true,
+      "uri": "ink-esch"
+    },
+    {
+      "name": "UBQ/ESCH",
+      "keywords": "ubq ubiq esch escher",
+      "address": "0xf102ad140b26c3c6af9e9358da9deaa27cb1dbea",
+      "enabled": true,
+      "uri": "ubq-esch"
+    },
+    {
+      "name": "UBQ/GEO",
+      "keywords": "ubq ubiq geo geocoin",
+      "address": "0xe4e0c6af932a971d0c222a07bc655b2307701ef2",
+      "enabled": true,
+      "uri": "ubq-geo"
+    },
+    {
+      "name": "UBQ/CAUL2",
+      "keywords": "ubq ubiq caul2 cauli2",
+      "address": "0x0d4e0061c1c2cc5bfc74104a9b6ffac90c0304a0",
+      "enabled": true,
+      "uri": "ubq-caul2"
+    },
+    {
+      "name": "UBQ/SPHR",
+      "keywords": "ubq ubiq sphere sphr",
+      "address": "0x039bc8983df1203290d4bc9263d75c7440b1e4bb",
+      "enabled": true,
+      "uri": "ubq-sphr"
+    }
+]}

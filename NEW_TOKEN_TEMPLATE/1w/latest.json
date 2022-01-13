@@ -1,6 +1,7 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "lastUpdated": 0,
   "previous": "",
-  "data": [{ "open": 0, "high": 0, "low": 0, "close": 0, "time": -1 }]
+  "r0": [{ "open": 0, "high": 0, "low": 0, "close": 0, "time": -1 }],
+  "r1": [{ "open": 0, "high": 0, "low": 0, "close": 0, "time": -1 }]
 }

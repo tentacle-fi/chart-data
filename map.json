@@ -13,11 +13,11 @@
       "displayDecimals": 4
     },
     {
-      "name": "GRANS/UBQ",
-      "keywords": "ubq ubiq 10grans",
-      "address": "0x6321c294f34c2cdaf61012ac4f3588a527f4d990",
+      "name": "INK/ESCH",
+      "keywords": "ink esch escher",
+      "address": "0x4030c26348628e1eeb11955c68e651c7027b04f9",
       "enabled": true,
-      "uri": "grans-ubq",
+      "uri": "ink-esch",
       "decimals":{
         "tokenA": 18,
         "tokenB": 18
@@ -25,11 +25,23 @@
       "displayDecimals": 4
     },
     {
-      "name": "INK/ESCH",
-      "keywords": "ink esch escher",
-      "address": "0x4030c26348628e1eeb11955c68e651c7027b04f9",
+      "name": "GRANS/INK",
+      "keywords": "ink 10grans",
+      "address": "0x2cd09d8c0484dfb32eb2f23ead45f14c7602921b",
       "enabled": true,
-      "uri": "ink-esch",
+      "uri": "grans-ink",
+      "decimals":{
+        "tokenA": 18,
+        "tokenB": 18
+      },
+      "displayDecimals": 4
+    },
+    {
+      "name": "GRANS/UBQ",
+      "keywords": "ubq ubiq 10grans",
+      "address": "0x6321c294f34c2cdaf61012ac4f3588a527f4d990",
+      "enabled": true,
+      "uri": "grans-ubq",
       "decimals":{
         "tokenA": 18,
         "tokenB": 18

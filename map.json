@@ -91,6 +91,24 @@
       "displayDecimals": 4
     },
     {
+      "name": "UBQ/wETH",
+      "tokenA":{
+        "name": "UBQ"
+      },
+      "tokenB":{
+        "name":"wETH"
+      },
+      "keywords": "ubq ubiq wrapped ethereum weth",
+      "address": "0xd3108cfa56fdd7e8d9bd2ce28bdd500d14dcee24",
+      "enabled": true,
+      "uri": "ubq-weth",
+      "decimals":{
+        "tokenA": 18,
+        "tokenB": 18
+      },
+      "displayDecimals": 4
+    },
+    {
       "name": "UBQ/GEO",
       "tokenA":{
         "name": "UBQ"

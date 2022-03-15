@@ -4,11 +4,11 @@
     {
       "name": "UBQ/USDT",
       "tokenA":{
-        "name": "UBQ",
+        "name":"USDT",
         "address": ""
       },
       "tokenB":{
-        "name":"USDT",
+        "name": "UBQ",
         "address": ""
       },
       "keywords": "ubq ubiq usdt",
@@ -16,48 +16,48 @@
       "enabled": true,
       "uri": "ubq-usdt",
       "decimals":{
-        "tokenA": 18,
-        "tokenB": 6
+        "tokenA": 6,
+        "tokenB": 18
       },
       "displayDecimals": 4
     },
     {
       "name": "INK/USDT",
       "tokenA":{
-        "name": "INK",
-        "address": "0x7845fcbe28ac19ab7ec1c1d9674e34fdcb4917db"
-      },
-      "tokenB":{
         "name":"USDT",
         "address": ""
+      },
+      "tokenB":{
+        "name": "INK",
+        "address": "0x7845fcbe28ac19ab7ec1c1d9674e34fdcb4917db"
       },
       "keywords": "ink usdt",
       "address": "0x7845fcbe28ac19ab7ec1c1d9674e34fdcb4917db_USDT",
       "enabled": true,
       "uri": "ink-usdt",
       "decimals":{
-        "tokenA": 18,
-        "tokenB": 6
+        "tokenA": 6,
+        "tokenB": 18
       },
       "displayDecimals": 4
     },
     {
       "name": "GRANS/USDT",
       "tokenA":{
-        "name": "GRANS",
-        "address": "0x0826180a4c981d5095cb5c48bb2a098a44cf6f73"
-      },
-      "tokenB":{
         "name":"USDT",
         "address": ""
+      },
+      "tokenB":{
+        "name": "GRANS",
+        "address": "0x0826180a4c981d5095cb5c48bb2a098a44cf6f73"
       },
       "keywords": "grans 10grans usdt",
       "address": "0x0826180a4c981d5095cb5c48bb2a098a44cf6f73_USDT",
       "enabled": true,
       "uri": "grans-usdt",
       "decimals":{
-        "tokenA": 18,
-        "tokenB": 6
+        "tokenA": 6,
+        "tokenB": 18
       },
       "displayDecimals": 4
     },
@@ -65,20 +65,20 @@
     {
       "name": "ESCH/USDT",
       "tokenA":{
-        "name": "ESCH",
-        "address": "0xcf3222b7fda7a7563b9e1e6c966bead04ac23c36"
-      },
-      "tokenB":{
         "name":"USDT",
         "address": ""
+      },
+      "tokenB":{
+        "name": "ESCH",
+        "address": "0xcf3222b7fda7a7563b9e1e6c966bead04ac23c36"
       },
       "keywords": "esch escher usdt",
       "address": "0xcf3222b7fda7a7563b9e1e6c966bead04ac23c36_USDT",
       "enabled": true,
       "uri": "esch-usdt",
       "decimals":{
-        "tokenA": 18,
-        "tokenB": 6
+        "tokenA": 6,
+        "tokenB": 18
       },
       "displayDecimals": 4
     },
@@ -86,20 +86,20 @@
     {
       "name": "wETH/USDT",
       "tokenA":{
-        "name": "wETH",
-        "address": "0xa8cf68b59a616c260dd88fd1ea61fbb864f7e485"
-      },
-      "tokenB":{
         "name":"USDT",
         "address": ""
+      },
+      "tokenB":{
+        "name": "wETH",
+        "address": "0xa8cf68b59a616c260dd88fd1ea61fbb864f7e485"
       },
       "keywords": "weth wrappedeth eth usdt",
       "address": "0xa8cf68b59a616c260dd88fd1ea61fbb864f7e485_USDT",
       "enabled": true,
       "uri": "weth-usdt",
       "decimals":{
-        "tokenA": 18,
-        "tokenB": 6
+        "tokenA": 6,
+        "tokenB": 18
       },
       "displayDecimals": 4
     },
@@ -107,60 +107,60 @@
     {
       "name": "GEO/USDT",
       "tokenA":{
-        "name": "GEO",
-        "address": "0x500684ce0d4f04abedff3e54fcf8acc5e6cfc4bd"
-      },
-      "tokenB":{
         "name":"USDT",
         "address": ""
+      },
+      "tokenB":{
+        "name": "GEO",
+        "address": "0x500684ce0d4f04abedff3e54fcf8acc5e6cfc4bd"
       },
       "keywords": "geo geocoin usdt",
       "address": "0x500684ce0d4f04abedff3e54fcf8acc5e6cfc4bd_USDT",
       "enabled": true,
       "uri": "geo-usdt",
       "decimals":{
-        "tokenA": 8,
-        "tokenB": 6
+        "tokenA": 6,
+        "tokenB": 8
       },
       "displayDecimals": 4
     },
     {
       "name": "SPHR/USDT",
       "tokenA":{
-        "name": "SPHR",
-        "address": "0x20e3dd746ddf519b23ffbbb6da7a5d33ea6349d6"
-      },
-      "tokenB":{
         "name":"USDT",
         "address": ""
+      },
+      "tokenB":{
+        "name": "SPHR",
+        "address": "0x20e3dd746ddf519b23ffbbb6da7a5d33ea6349d6"
       },
       "keywords": "sphr sphere usdt",
       "address": "0x20e3dd746ddf519b23ffbbb6da7a5d33ea6349d6_USDT",
       "enabled": true,
       "uri": "sphr-usdt",
       "decimals":{
-        "tokenA": 8,
-        "tokenB": 6
+        "tokenA": 6,
+        "tokenB": 8
       },
       "displayDecimals": 4
     },
     {
       "name": "CAUL2/USDT",
       "tokenA":{
-        "name": "CAUL2",
-        "address": "0x74af4efa246a55d091807b38d6000b1473931353"
-      },
-      "tokenB":{
         "name":"USDT",
         "address": ""
+      },
+      "tokenB":{
+        "name": "CAUL2",
+        "address": "0x74af4efa246a55d091807b38d6000b1473931353"
       },
       "keywords": "caul2 cauli2.0 usdt",
       "address": "0x74af4efa246a55d091807b38d6000b1473931353_USDT",
       "enabled": true,
       "uri": "caul2-usdt",
       "decimals":{
-        "tokenA": 2,
-        "tokenB": 6
+        "tokenA": 6,
+        "tokenB": 2
       },
       "displayDecimals": 4
     },
